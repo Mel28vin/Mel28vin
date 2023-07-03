@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio Page](https://github.com/Mel28vin/Mel28vin.github.io)
+- 🔭 I’m currently working on my [Covid Prediction Web app](https://github.com/Mel28vin/covidvision)
 
-- 🌱 I’m currently learning **OCP Java, React and Node.js**
+- 🌱 I’m currently learning **NextJS, Rust and Typescript**
 
 - 👯 I’m looking to collaborate on [Neovim Projects](https://github.com/Mel28vin/nvim-config)
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mel28vin](https://github.com/Mel28vin)
 
-- 💬 Ask me about **Python, C and C++**
+- 💬 Ask me about **React, Java, Machine Learning**
 
-- 📫 How to reach me **melvin@techwithsam.me**
+- 📫 How to reach me **jebasamuel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
