@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **NextJS, Rust and Typescript**
 
-- 👯 I’m looking to collaborate on [Neovim Projects](https://github.com/Mel28vin/nvim-config)
+- 👯 I’m looking to collaborate on innovative projects!
 
-- 🤝 I’m looking for help with [Neovim Config to Lua](https://github.com/Mel28vin/nvim-config)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mel28vin](https://github.com/Mel28vin)
+- 👨‍💻 All of my projects are available at my [Portfolio page](https://mels.vercel.app/)
 
 - 💬 Ask me about **React, Java, Machine Learning**
 
